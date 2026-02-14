@@ -56,3 +56,20 @@ L’étude repose sur :
 > **Installer un établissement identique à Au Chapeau Thé à Saint‑Jean‑de‑Védas, au 13 ter Avenue Georges Clemenceau, est une décision stratégiquement pertinente.**
 
 ---
+**# 📘 Étude d’implantation — Au Chapeau Thé
+
+## 🔵 Carte comparative Lavérune vs SJV
+![Carte comparative](images/carte_comparative.png)
+
+## 🔥 Heatmap concurrence SJV
+![Heatmap](images/heatmap_sjv.png)
+
+## 🟧 Isochrones 5–10 minutes
+![Isochrones](images/isochrones_sjv.png)
+
+## 📍 Emplacement candidat
+![Emplacement candidat](images/emplacement_candidat.png)
+
+## 📊 Score d’opportunité
+![Score d’opportunité](images/opportunity_score.png)
+**
