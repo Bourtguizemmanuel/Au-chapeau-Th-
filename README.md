@@ -23,26 +23,25 @@ Score d’opportunité calculé sur mesure
 
 ⭐ 2. Analyse des avis Google
 📊 2.1 Analyse de sentiment (NLP)
-![Analyse des sentiments](images/sentiments.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/sentiments.png
 
 🔤 2.2 Nuage de mots‑clés (traduits en français)
-![Nuage de mots clés](images/mots_cles.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/mots_cles.png
 
 🔵 3. Carte comparative Lavérune vs SJV
-![Carte comparative](images/carte_comparative.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/carte_comparative.png
 
 🔥 4. Heatmap concurrentielle SJV
-![Heatmap SJV](images/heatmap_sjv.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/heatmap_sjv.png
 
 🧭 5. Accessibilité : Isochrones 5–10 minutes
-![Isochrones](images/isochrones_sjv.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/isochrones_sjv.png
 
 📍 6. Évaluation de l’emplacement candidat
-![Emplacement candidat](images/emplacement_candidat.png)
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/emplacement_candidat.png
 
 📊 7. Score d’opportunité
-![Score d’opportunité](images/opportunity_score.png)
-
+https://raw.githubusercontent.com/Bourtguizemmanuel/Au-chapeau-Th-/main/images/opportunity_score.png
 
 🧠 8. Synthèse stratégique
 L’analyse montre que :
