@@ -23,25 +23,26 @@ Score d’opportunité calculé sur mesure
 
 ⭐ 2. Analyse des avis Google
 📊 2.1 Analyse de sentiment (NLP)
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Analyse des sentiments](images/sentiments.png)
 
 🔤 2.2 Nuage de mots‑clés (traduits en français)
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Nuage de mots clés](images/mots_cles.png)
 
 🔵 3. Carte comparative Lavérune vs SJV
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Carte comparative](images/carte_comparative.png)
 
 🔥 4. Heatmap concurrentielle SJV
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Heatmap SJV](images/heatmap_sjv.png)
 
 🧭 5. Accessibilité : Isochrones 5–10 minutes
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Isochrones](images/isochrones_sjv.png)
 
 📍 6. Évaluation de l’emplacement candidat
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Emplacement candidat](images/emplacement_candidat.png)
 
 📊 7. Score d’opportunité
-[Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !]
+![Score d’opportunité](images/opportunity_score.png)
+
 
 🧠 8. Synthèse stratégique
 L’analyse montre que :
