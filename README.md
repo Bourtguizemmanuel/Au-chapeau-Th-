@@ -1,10 +1,10 @@
-# 🧠 ÉTUDE D’IMPLANTATION – CONCEPT “AU CHAPEAU THÉ” À SAINT-JEAN-DE-VÉDAS
+# ÉTUDE D’IMPLANTATION – CONCEPT “AU CHAPEAU THÉ” À SAINT-JEAN-DE-VÉDAS
 ### Analyse data-driven – Février 2026  
 ### Réalisée par Emmanuel
 
 ---
 
-## 🟡 1. Introduction
+## 🔵 1. Introduction
 
 Ce rapport évalue la pertinence d’implanter un établissement identique à **Au Chapeau Thé** (Lavérune) dans la commune voisine de **Saint-Jean-de-Védas**.
 
@@ -89,4 +89,4 @@ L’analyse montre que :
 > - proximité des Halles  
 >
 > Le concept a toutes les chances de **réussir et de se développer durablement**.
-****
+
